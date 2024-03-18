@@ -19,8 +19,8 @@
           <div class="flex flex-shrink-0 items-center">
             <img
               class="h-8 w-auto"
-              src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
-              alt="Your Company"
+              src="https://cdn-icons-png.flaticon.com/512/2640/2640464.png"
+              alt="KhooEdWin"
             />
           </div>
           <div class="hidden sm:ml-6 sm:block">
@@ -83,5 +83,6 @@ const navigation = [
   { name: "Blogs", href: "/blog", current: route.name.includes("blog") },
   { name: "Projects", href: "/projects", current: route.name === "projects" },
   { name: "Uses", href: "/uses", current: route.name === "uses" },
+  { name: "About", href: "/about", current: route.name === "about" },
 ];
 </script>
