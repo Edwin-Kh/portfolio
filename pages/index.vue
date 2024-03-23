@@ -28,17 +28,23 @@
         </p>
       </div>
       <img
-        src="~/assets/images/Laias.png"
+        src="~/assets/images/ProfilePhoto.png"
         class="w-1/2 md:max-w-sm p-8 mx-auto"
       />
     </section>
 
     <section>
       <h2 class="text-3xl font-bold mt-20">Latest Blog Posts</h2>
+      <div class="" grid md:grid-cols-3 pt-8 gap-0></div>
+      <Post :posts="posts"></Post>
     </section>
   </section>
 </template>
 
-<script setup></script>
+<script setup>
+const { data: posts } = await useAsyncData("latest-posts", () =>
+  queryContent("/blog").sort({ data: 1 }).limit(3).find()
+);
+</script>
 
 <style lang="scss" scoped></style>
