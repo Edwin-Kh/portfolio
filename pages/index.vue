@@ -34,9 +34,10 @@
     </section>
 
     <section>
-      <h2 class="text-3xl font-bold mt-20">Latest Blog Posts</h2>
-      <div class="" grid md:grid-cols-3 pt-8 gap-0></div>
-      <Post :posts="posts"></Post>
+      <h2 class="text-3xl font-bold mt-8">Latest Blog Posts</h2>
+      <div class="grid md:grid-cols-3 pt-8 gap-10">
+        <Post :posts="posts" />
+      </div>
     </section>
   </section>
 </template>

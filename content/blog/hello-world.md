@@ -1,69 +1,65 @@
 ---
 title: Hello, World!
-description: This is a blog post.
-date: 2024-03-18
-cover: https://t3.ftcdn.net/jpg/05/78/33/00/360_F_578330006_9pc5smMWxM5qzAxbayYnqk0RwG5oAulg.jpg
+description: This is my very first blog post and I'm so excited to share it with you!
+date: 2023-05-23
+cover: nasa-Q1p7bh3SHj8-unsplash.jpg
 tags:
   - blog
 ---
 
-# Hello World
+# Hello, World 👋🏻
 
-Headers
+This is a paragraph.
 
-# Header 1
+This is another paragraph.
 
-## Header 2
+![Earth from Space](/images/blog/nasa-Q1p7bh3SHj8-unsplash.jpg)
 
-### Header 3
+## This is a heading 2
 
-Emphasis Text
-_italic_ or _italic_
-**bold** or **bold**
+You can use lists
 
-Lists
+- list item 1
+- list item 2
+- list item 3
 
-- Item 1
-- Item 2
-  - Subitem A
-  - Subitem B
+You can use code blocks
 
-1. First item
-2. Second item
-
-Links
-[Link text](https://www.example.com)
-
-Images
-![Alt text](image_url.jpg)
-
-Code Blocks
-
-```python
-print("Hello, world!")
+```js
+const hello = "world";
+console.log(hello);
 ```
 
-## Horizontal Rule
+You can use blockquotes
 
-Blockquotes
+> This is a blockquote
 
-> This is a blockquote.
+You can use links
 
-Tables
+[This is a link](https://www.google.com)
+
+You can use tables
+
 | Column 1 | Column 2 |
-|----------|----------|
-| Row 1 | Row 1 |
-| Row 2 | Row 2 |
+| -------- | -------- |
+| Row 1    | Row 1    |
+| Row 2    | Row 2    |
+| Row 3    | Row 3    |
 
-Equations
-$E = mc^2$
+You can use horizontal rules
+
+---
+
+You can use emphasis
+
+**This is bold**
+
+_This is italic_
+
+You can use inline code
+
+`const hello = 'world';`
 
 :::callout{title="Hello World Callout"}
 This is a quick tip about markdown
 :::
-
-```
-
-```
-
-![This is an image](https://t3.ftcdn.net/jpg/05/78/33/00/360_F_578330006_9pc5smMWxM5qzAxbayYnqk0RwG5oAulg.jpg)
