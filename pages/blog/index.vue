@@ -1,10 +1,9 @@
 <template>
-  <h1 class="text-3xl my-8">Blog Posts</h1>
+  <h1 class="text-3xl my-8">Developer Blogs</h1>
 
-  I like to write about anything thta I am currently working or something new
-  that interests me. If you would like me to write about something or be a guest
-  blogger on your blog please reach out to me on Twitter. If you would like to
-  subscribe to an RSS feed you can find it here.
+  I like to write blogs about my journey as a software developer. This section
+  is sort of my Developer's Journal where I write about what I learned, bugs I
+  have come acrossed and resolved, or neat information I'd like to share.
 
   <section class="grid md:grid-cols-3 mt-8 gap-10">
     <Post :posts="posts" />

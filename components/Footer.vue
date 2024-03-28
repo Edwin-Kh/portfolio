@@ -5,6 +5,9 @@
     >
       <p class="flex-1">&copy; Khoo Ed Win 2024. All Rights Reserved</p>
       <div class="flex flex-row justify-center gap-4 mb-4 mt-2">
+        <p>Contact Me @</p>
+        <Icon name="✉️"></Icon>
+        <p>edwin9938@gmail.com</p>
         <a v-for="link in links" :key="link.name" :href="link.href">
           <Icon :name="link.icon" size="1.5rem" class="text-gray-300" />
         </a>
@@ -15,11 +18,6 @@
 
 <script setup>
 const links = [
-  {
-    name: "Instagram",
-    href: "https://www.instagram.com/edwin_khoo_/",
-    icon: "grommet-icons:instagram",
-  },
   {
     name: "GitHub",
     href: "https://github.com/Edwin-Kh",

@@ -9,27 +9,24 @@
       </p>
     </section>
     <section class="flex flex-col md:flex-row">
-      <div class="md:w-3/4">
+      <div class="md:w-1/2">
         <h2 class="text-3xl font-bold mt-20">About Me</h2>
         <p class="text-base text-gray-900">
-          I am a fresh undergraduate from Tunku Abdul Rahman University of
-          Management & Technology who is currently pursuing an internship at
-          Finexus International Sdn Bhd. I have learned the fundamentals of
-          Software Engineering throughout my tertiary studies. Topics covered
-          during this time include Project Management, Quality Assurance,
-          Development Principles, Methodologies, etc.
+          I am a fresh graduate and a relative newbie in the software
+          development space. I have previous experience in web development and
+          data science from my internship and personal projects.
           <br />
           <br />
-          I have dedicated my spare time to self-learning other disciplines
-          within the Computing & IT field such as Web Development,
-          Cybersecurity, DevOps and Data Science. Personal projects such as this
-          one allow me to explore and test my understanding of certain areas.
+          Aside from exposure to the space from my tertiary education and side
+          projects, I also spend some of my free time everyday to read tech
+          articles, blogs and videos to keep myself up to date on the latest
+          tech trends.
           <br />
         </p>
       </div>
       <img
         src="~/assets/images/ProfilePhoto.png"
-        class="w-1/2 md:max-w-sm p-8 mx-auto"
+        class="w-1/2 md:max-w-sm mx-auto"
       />
     </section>
 
