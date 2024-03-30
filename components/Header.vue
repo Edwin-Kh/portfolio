@@ -1,6 +1,6 @@
 <template>
   <Disclosure as="nav" class="bg-slate-500" v-slot="{ open }">
-    <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+    <div class="mx-auto max-w-xl px-2 sm:px-6 lg:px-8">
       <div class="relative flex h-16 items-center justify-between">
         <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
           <!-- Mobile menu button-->
@@ -20,7 +20,7 @@
             <img
               class="h-8 w-auto"
               src="https://cdn-icons-png.flaticon.com/512/2640/2640464.png"
-              alt="KhooEdWin"
+              alt="Logo"
             />
           </div>
           <div class="hidden sm:ml-6 sm:block">
@@ -33,7 +33,7 @@
                   item.current
                     ? 'bg-slate-800 text-white'
                     : 'text-gray-300 hover:bg-slate-700 hover:text-white',
-                  'rounded-md px-3 py-2 text-sm font-medium',
+                  'rounded-md px-3 py-2 text-lg font-medium',
                 ]"
                 :aria-current="item.current ? 'page' : undefined"
                 >{{ item.name }}</a
@@ -83,7 +83,6 @@ const navigation = [
   { name: "Home", href: "/", current: route.name === "index" },
   { name: "Blogs", href: "/blog", current: route.name.includes("blog") },
   { name: "Projects", href: "/projects", current: route.name === "projects" },
-  { name: "Uses", href: "/uses", current: route.name === "uses" },
   { name: "About", href: "/about", current: route.name === "about" },
 ];
 </script>

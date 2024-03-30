@@ -16,7 +16,7 @@
       <p class="text-gray-700 mb-4">{{ post.description }}</p>
       <NuxtLink
         :to="post._path"
-        class="inline-block bg-stone-500 hover:bg-stone-700 text-white py-2 px-4 rounded float-right mb-8"
+        class="inline-block bg-stone-500 hover:bg-stone-700 text-white py-2 px-4 rounded float-right mb-8 text-xl"
         >Read More
       </NuxtLink>
     </div>

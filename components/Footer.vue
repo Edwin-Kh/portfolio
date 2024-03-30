@@ -1,12 +1,12 @@
 <template>
   <footer class="bg-slate-600">
     <section
-      class="mx-auto max-w-7xl px-2 sm:px-4 lg:py-6 text-gray-300 flex flex-row"
+      class="mx-auto max-w-7xl px-2 sm:px-4 lg:py-5 text-gray-300 flex flex-row"
     >
       <p class="flex-1">
-        &copy; Developed by Khoo Ed Win 2024 | &reg; All Rights Reserved
+        Developed by Khoo Ed Win 2024 | &copy; All Rights Reserved
       </p>
-      <div class="flex flex-row justify-center gap-4 mb-4 mt-2">
+      <div class="flex flex-row justify-center gap-3 mb-4 mt-2">
         <Icon name="mi:email" :style="{ fontSize: '30px' }"></Icon>
         <p>edwin9938@gmail.com</p>
         <a v-for="link in links" :key="link.name" :href="link.href">
