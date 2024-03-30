@@ -19,7 +19,7 @@
           <div class="flex flex-shrink-0 items-center">
             <img
               class="h-8 w-auto"
-              src="https://cdn-icons-png.flaticon.com/512/2640/2640464.png"
+              src="~/assets/images/Logo.png"
               alt="Logo"
             />
           </div>
