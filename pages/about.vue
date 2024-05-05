@@ -3,9 +3,9 @@
 
   <section class="grid grid-cols-2 gap-10">
     <img src="~/assets/images/AboutMePhoto.jpg" class="md:max-w-m mx-auto" />
-    <p class="text-xl text-gray-900">
+    <p class="text-xl text-gray-900 p-10">
       I am a fresh undergraduate from Tunku Abdul Rahman University of
-      Management & Technology who is currently pursuing an internship at Finexus
+      Management & Technology that completed an internship at Finexus
       International Sdn Bhd. I have learned the fundamentals of Software
       Engineering throughout my tertiary studies. Topics covered during this
       time include Project Management, Quality Assurance, Development
@@ -28,7 +28,6 @@
       management for user management features.
       <br />
       <br />
-      Contact Me: 📞 +6013 445-2275 | ✉️ edwin9938@gmail.com
     </p>
   </section>
 </template>
