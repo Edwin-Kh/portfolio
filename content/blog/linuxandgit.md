@@ -1,7 +1,7 @@
 ---
 title: Living in the terminal with Linux and Git
 description: Learning notes for Linux OS and Git VCS
-date: 2024-15-05
+date: 2024-04-30
 cover: gitbash.png
 tags:
   - Linux
