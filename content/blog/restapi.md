@@ -7,6 +7,18 @@ tags:
   - api
 ---
 
+# Table of Contents
+
+1. [GET Request](#get-request)
+2. [POST Request](#post-request)
+3. [PUT Request](#put-request)
+4. [DELETE Request](#delete-request)
+5. [PATCH Request](#patch-request)
+6. [OPTIONS Request](#options-request)
+7. [HEAD Request](#head-request)
+
+---
+
 1. **GET Request:**
    - Purpose: GET requests are used to retrieve data from a server. They are the most common type of API call and are typically used when you want to fetch information from a server without modifying it.
    - Example: Retrieving weather data from a weather API.In this example, a GET request is made to the WeatherAPI to retrieve current weather data for New York.

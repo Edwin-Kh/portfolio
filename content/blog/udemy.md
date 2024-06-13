@@ -7,6 +7,25 @@ tags:
   - Udemy
 ---
 
+# Table of Contents
+
+1. [Introduction](#introduction)
+2. [Self-Learning Experience](#self-learning-experience)
+   - [Online Courses](#online-courses)
+   - [Youtube Tutorials](#youtube-tutorials)
+3. [Udemy Courses Taken & Reviewed](#udemy-courses-taken--reviewed)
+   - [CompTIA Security+ (SY0-701) Bootcamp](#comptia-security-sy0-701-bootcamp)
+   - [Linux for Beginners](#linux-for-beginners)
+   - [The Git & Github Bootcamp](#the-git--github-bootcamp)
+   - [100 Days of Code: The Complete Python Pro Bootcamp](#100-days-of-code-the-complete-python-pro-bootcamp)
+4. [Benefits that I Appreciate Using Online Materials](#benefits-that-i-appreciate-using-online-materials)
+   - [Pacing](#pacing)
+   - [Convenience](#convenience)
+   - [Reviewed Quality](#reviewed-quality)
+5. [Conclusion](#conclusion)
+
+---
+
 # Introduction
 
 Embarking on a self-learning journey in the tech field can be both exciting and overwhelming. With an abundance of resources available, it's important to find what works best for you. In this blog, I’ll share my experiences with various educational platforms and courses, highlighting the benefits and challenges of each. During my free time after work hours during my internship, I spend couple minutes up to an hour a day to upskill, reading developer blogs as well as learning non-technical information about the industry.
@@ -16,6 +35,8 @@ Embarking on a self-learning journey in the tech field can be both exciting and 
 My self-learning journey began with a curiosity to understand the world of technology. I approached online resources as a path to tailor my learning experience according to my availability, thus providing more enjoyable sessions. From understanding basic coding concepts to diving into more specialised disciplinces such as cybersecurity and web development. I took several bootcamps and courses using Udemy to expose myself to what interested me. Here I will highlight a couple courses I took.
 
 ## Online Courses
+
+Online courses have been a cornerstone of my learning experience. They offer flexibility and a wide range of topics that cater to different levels of expertise. I’ve explored numerous platforms including Udemy, Coursera and W3School, each with its own strengths.
 
 ## Youtube Tutorials
 

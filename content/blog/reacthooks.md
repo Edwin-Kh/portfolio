@@ -7,6 +7,19 @@ tags:
   - react
 ---
 
+# Table of Contents
+
+1. [useState](#usestate)
+2. [useEffect](#useeffect)
+3. [useContext](#usecontext)
+4. [useReducer](#usereducer)
+5. [useCallback](#usecallback)
+6. [useMemo](#usememo)
+7. [useRef](#useref)
+8. [useLayoutEffect](#uselayouteffect)
+
+---
+
 # Hooks
 
 ## useState
